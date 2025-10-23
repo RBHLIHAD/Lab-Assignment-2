@@ -21,7 +21,7 @@ public class Book {
     public static void main(String[] args) {
         Book b = new Book();
         b.setTitle("Object-Oriented Programming");
-        b.setAuthor("Tamanna Islam");
+        b.setAuthor("Debobrata Chakraborty");
         b.setPrice(500);
         b.applyDiscount(10);
 
