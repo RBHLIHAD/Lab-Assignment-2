@@ -15,7 +15,7 @@ public class Employee {
     public static void main(String[] args) {
         Employee e = new Employee();
         e.setEmployee_id(101);
-        e.setEmployee_name("Tamanna Islam");
+        e.setEmployee_name("Rifat Bin Hossain");
         e.setEmployee_salary(55000);
 
         System.out.println("ID: " + e.getEmployee_id());
